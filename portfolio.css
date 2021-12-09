@@ -37,7 +37,7 @@ a{
     transition: 1s;
 }
 
-.section .more>lili{
+.section .more>li{
     list-style: none;
     display: inline-block;
 }
@@ -371,7 +371,24 @@ p{
     border:5px solid red
 }
 
-
+.getintouch{
+    position: relative;
+    width:50%;
+    height:10%;
+    align-items: center;
+    border-width: 100px;
+    border: 1px solid red;
+    
+}
+.getintouch > goto{
+    position: absolute;
+    width:55%;
+    height:10%;
+    align-items: center;
+    border-width: 100px;
+    border: 1px solid red;
+    /* margin-right: 10px; */
+}
 
 footer{
     background-color:black;
