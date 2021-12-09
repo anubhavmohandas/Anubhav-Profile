@@ -22,12 +22,12 @@ a{
 
 .image{
     position: relative;
-    margin-top:444px;
+    margin-top:500px;
     /* object-fit: cover; */
     float:left;
-    width: 50%;
+    width: 30%;
     height: 160%;
-    /* margin-right: -50px; */
+    margin-right: 350px;
 }
 .section{
     position: relative;
