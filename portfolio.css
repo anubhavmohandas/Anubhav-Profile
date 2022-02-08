@@ -155,6 +155,7 @@ div{
     /* box-sizing: border-box; */
     border-color: red;
     border-width: 100px;
+    
 
 }
 
@@ -209,6 +210,7 @@ div{
     display: table;
     /* border: 1px solid black; */
     text-align: center;
+    background-color: lightcyan;
 }
 
 .decor2{
