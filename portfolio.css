@@ -1,6 +1,7 @@
-html{
-    scroll-behavior: smooth;
-}
+/* body{
+    margin:auto
+} */
+
 /* CSS Start */
 a{
     text-decoration: none;
@@ -183,7 +184,31 @@ div{
     margin-left: 660px;
     margin-right: 0px;
     margin-bottom: 0px;
- 
+}
+
+.wid{
+    position: relative;
+    width: 100%;
+    font-size: 40px;
+    /* margin-left: 50%; */
+    /* border: 1px solid red; */
+
+}
+
+
+.coloumn {
+    padding: 0px;
+    border: 1px solid black;
+}
+
+
+.works{
+    width: 100%;
+    content: "";
+    /* clear: both; */
+    display: table;
+    /* border: 1px solid black; */
+    text-align: center;
 }
 
 .decor2{
